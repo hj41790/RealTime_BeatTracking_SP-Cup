@@ -1,0 +1,1 @@
+float BPMxcorr(float *, int *);
